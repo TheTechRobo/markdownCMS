@@ -4,11 +4,11 @@ Create a small static html site from multiple markdown files for easy reading , 
 
 https://github.com/miltosc/markdownCMS
 
-#Screenshots
+# Screenshots
 
 ![screenshot of UI](./screenshot1.jpg?raw=true "screenshot of UI")
 
-#Configuration
+# Configuration
 
 Change "web-app\main_files\config.php" to edit your markdown files.
 
@@ -24,7 +24,7 @@ All you need is just PHP and a Web server.
 No DB is used, just plain text files, html and markdown.
 
 
-#Features
+# Features
 
 *   created html files are saved in "html-output". 
 You can copy that folder and inc folder anywhere you want to have an html portable version of your notes.
@@ -49,13 +49,13 @@ _Click multiple times the button to go to the next occurence in the editor if th
 *   keeps backup of every file you change in the last N days in folder "tmp_backup_files".
 
 
-#Notes
+# Notes
 For those who use older version just run "Recreate all html files and main menu" from the menu at the header and will recreate correctly all the static website.
 
 Any recommendations bug reports etc are welcome.
 Keep in mind that this project created for my own personal use since i did not found something similar open source and self hosted solution.
 
-#Credits
+# Credits
 I used the following projects and you will find them in my files.
 
 erusev's parsedown
